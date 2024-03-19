@@ -10,7 +10,8 @@ public class TableCreation extends JFrame {
     private String url = "jdbc:mysql://localhost:3306/";
     private String databaseName = "QuizApp";
     private String userName = "root";
-    private String password = "Sw@rn@l777";
+    private String password = ""; // Use your actual password
+    
     private JTextField nameField, userField, collegeField;
     private JPasswordField passField;
     private JButton registerButton;
