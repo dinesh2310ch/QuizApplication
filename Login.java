@@ -12,7 +12,7 @@ public class Login extends JFrame {
 
     private String url = "jdbc:mysql://localhost:3306/QuizApp?useSSL=false";
     private String userName = "root";
-    private String password = "Sw@rn@l777";
+    private String password = ""; // Use your actual password
 
     public Login() {
         userField = new JTextField(20);
