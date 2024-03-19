@@ -10,7 +10,7 @@ import java.sql.SQLException;
 public class FeedbackReportGUI extends JFrame {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/QuizApp?useSSL=false";
     private static final String USER = "root";
-    private static final String PASS = "Sw@rn@l777";
+    private static final String PASS = ""; // Use your actual password
 
     private JTable table;
     private DefaultTableModel tableModel;
