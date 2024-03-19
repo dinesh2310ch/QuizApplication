@@ -62,11 +62,11 @@ Conclusion:
 The Java Quiz Application showcases the practical application of Java Swing, AWT, and JDBC in creating an interactive desktop application. It serves as a valuable learning tool for Java programmers of all levels, offering a fun and engaging way to test and improve their Java skills while introducing database interaction concepts.
 
 Screenshot :-
- ![Screenshot from 2024-03-19 12-52-40](https://github.com/dinesh2310ch/QuizApplication/assets/161042200/bd21dd70-c1f3-4711-948f-849510dd21f5)
-![Screenshot from 2024-03-19 12-53-10](https://github.com/dinesh2310ch/QuizApplication/assets/161042200/2c34ad75-e89e-4079-9a13-ade5a9311cc6)
-![Screenshot from 2024-03-19 12-53-04](https://github.com/dinesh2310ch/QuizApplication/assets/161042200/ce833f98-cea3-4767-864a-11c1392ce48e)
-![Screenshot from 2024-03-19 12-53-00](https://github.com/dinesh2310ch/QuizApplication/assets/161042200/19ebe380-2a97-40c3-9c59-0ffe0404dd7d)
-![Screenshot from 2024-03-19 12-52-54](https://github.com/dinesh2310ch/QuizApplication/assets/161042200/4b909304-d937-4639-901f-4879ba859b0f)
-![Screenshot from 2024-03-19 12-52-49](https://github.com/dinesh2310ch/QuizApplication/assets/161042200/790b0043-ad08-4438-8e5c-035cb6b31701)
+ ![Screenshot from 2024-03-19 12-52-40](https://github.com/dinesh2310ch/QuizApplication/assets/161042200/e5b86535-6def-4463-a8bb-31058e639ffc)
+![Screenshot from 2024-03-19 12-52-49](https://github.com/dinesh2310ch/QuizApplication/assets/161042200/5245bb17-54ea-43cb-98e6-1ea62d67578e)
+![Screenshot from 2024-03-19 12-52-54](https://github.com/dinesh2310ch/QuizApplication/assets/161042200/91ff2d86-e6dc-480a-96f8-9d06518b5c05)
+![Screenshot from 2024-03-19 12-53-00](https://github.com/dinesh2310ch/QuizApplication/assets/161042200/4cd235c3-4023-4da2-9cdd-b7320fedffa9)
+![Screenshot from 2024-03-19 12-53-04](https://github.com/dinesh2310ch/QuizApplication/assets/161042200/d902254e-d766-486a-9bd3-6728c6384d56)
+![Screenshot from 2024-03-19 12-53-10](https://github.com/dinesh2310ch/QuizApplication/assets/161042200/984a4e7c-903f-47d6-a324-cd531f28a818)
 
  
