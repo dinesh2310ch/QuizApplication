@@ -7,7 +7,7 @@ public class DatabaseHelper {
 
     private static final String DB_URL = "jdbc:mysql://localhost:3306/QuizApp";
     private static final String USER = "root";
-    private static final String PASS = "Sw@rn@l777"; // Use your actual password
+    private static final String PASS = ""; // Use your actual password
 
     public DatabaseHelper() {
         // Attempt to establish a connection to the database and create the feedback table if it doesn't exist
